@@ -1,6 +1,4 @@
-# Healthcare_Analytics_Doctor_Visits
 
-cat > /home/claude/README_healthcare.md << 'EOF'
 # Healthcare Analytics for Doctor Visits
 
 ## 📌 Project Overview
@@ -47,7 +45,7 @@ Healthcare providers and policymakers often assume that expanding insurance cove
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Charu4994/Healthcare_Analytics_Doctor_Visits/edit/main/README.md>
    ```
 2. Make sure the `.csv` and `.ipynb` files are in the **same folder**.
 3. Open the notebook:
@@ -68,8 +66,3 @@ Charu Yadav
 
 ---
 *This project was completed as part of a Data Analytics case study.*
-EOF
-mkdir -p /mnt/user-data/outputs && cp /home/claude/README_healthcare.md /mnt/user-data/outputs/README.md
-Output
-
-exit code 0
